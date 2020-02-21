@@ -10,3 +10,6 @@ For a customer the cost of a call up to and including 3 minutes in duration is c
 
 Write a program that when run will parse the `calls.log` file and print out the total cost of calls for the day for each customer. You can use any libraries you wish to.
 
+## 
+Test and src are given different folders. Dataframe approach used to do the calculation, and the path fo the provided is sample path from ubuntu server in the program.
+
